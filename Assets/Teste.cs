@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Teste : MonoBehaviour
 {
+    int ponto;
+
     // Start is called before the first frame update
     void Start()
     {
